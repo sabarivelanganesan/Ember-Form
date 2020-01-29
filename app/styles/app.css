@@ -1,0 +1,50 @@
+/* h1{
+    color: blue;
+    text-align: center;
+}
+
+.logo-img-size{
+    height:150px;
+}
+.logo-img-block{
+   display: inline-flex;
+    border:2px solid black;
+    margin-right: 10%;
+}
+.user-resource{
+    position: absolute;
+    background-color: blue;
+    height: 60%;
+    top: 10%;
+    width: 50%;
+    left: 22%;
+}
+.customize-button{
+    
+    height: 30px;
+    width: 50%;
+} */
+.container{
+    width: 760px;
+    margin: 0px  auto;
+}
+
+.logo-text{
+    color:  rgb(30, 97, 185);
+    font-size: 3rem
+} 
+.logo-img{
+    width: 8%;
+    border: 2px solid rgb(30, 97, 185);
+    border-radius: 6px;
+}
+.align-item{
+    display : inline-flex;
+    margin-right: 30px;
+}
+.logger{
+    position: relative;
+}
+.logger-item{
+    margin-right: 120px;
+}
